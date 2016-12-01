@@ -1,0 +1,43 @@
+body {
+	background-color: #181818;
+}
+
+#particles-js {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#info {
+	position: absolute;
+	bottom: 7.5%;
+	right: 4%;
+}
+
+#name {
+	font-family: 'Press Start 2P', sans-serif ;
+	font-size: 2.5em;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+}
+
+.github-red {
+	color: #ff00c3;
+	padding-right: 2.5%;
+}
+
+.mail-green {
+	color: #00ff00;
+	padding-right: 2.5%;
+}
+
+.instagram-yellow {
+	color: #f6ff00;
+}

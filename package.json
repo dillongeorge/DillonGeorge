@@ -1,0 +1,23 @@
+{
+  "name": "DillonGeorge",
+  "version": "1.0.0",
+  "description": "My personal site.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillongeorge/dillongeorge"
+  },
+  "keywords": [],
+  "author": "Dillon George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillongeorge/dillongeorge/issues"
+  },
+  "homepage": "https://github.com/dillongeorge/dillongeorge#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
